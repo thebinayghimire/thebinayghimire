@@ -1,7 +1,9 @@
 <!-- Upload this README.md and the assets folder to the public repository thebinayghimire/thebinayghimire. -->
 
+<a name="profile-top"></a>
+
 <p align="center">
-  <img src="./assets/header-f01a53c7.svg" width="100%" alt="Binay Ghimire" />
+  <img src="./assets/header-f01a53c7.svg" width="100%" alt="Binay Ghimire: software design and development, Kathmandu, Nepal" />
 </p>
 
 <p align="center">
@@ -10,15 +12,20 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/thebinayghimire?tab=repositories"><img src="./assets/browse-projects.svg" width="190" height="44" alt="Browse my public projects" /></a>
+  &nbsp;
+  <a href="mailto:binayire@gmail.com"><img src="./assets/get-in-touch.svg" width="170" height="44" alt="Get in touch by email" /></a>
+</p>
+
+<p align="center">
   <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
   <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
-  <a href="#in-progress">In progress</a> &nbsp; / &nbsp;
-  <a href="https://github.com/thebinayghimire?tab=repositories">Repositories</a>
+  <a href="#in-progress">In progress</a>
 </p>
 
 ---
 
-### A little context
+## A little context
 
 I'm **Binay**, an IT computing student at **The British College, Kathmandu**, working toward a career in software engineering.
 
@@ -29,7 +36,9 @@ My interests sit where **useful software, clear interfaces, and practical infras
 - **Paying attention to:** readable code, thoughtful UI, and understandable behavior.
 - **Long-term direction:** becoming a software engineer who can take an idea from first sketch to a reliable product.
 
-### Selected work
+---
+
+## Selected work
 
 A selection of projects I've worked on, from coursework to independent prototypes. Scope and maturity vary by project.
 
@@ -66,9 +75,17 @@ A selection of projects I've worked on, from coursework to independent prototype
 
 <p align="right"><a href="https://github.com/thebinayghimire?tab=repositories"><strong>Explore my public repositories →</strong></a></p>
 
-<!-- Add direct repository or live-demo links inside the cards when you have verified their public URLs. -->
+### Explore the code
 
-### Toolkit
+Public repositories you can browse now:
+
+- **[Python projects](https://github.com/thebinayghimire/L4-Sem1-Final-Python-Projects)** — a console Formula 1 timing board prototype and a university chatbot.
+- **[Weekly programming exercises](https://github.com/thebinayghimire/L4-Sem1-FOCP-Portfolio-Tasks-by-Binay-Ghimire)** — coursework and practice from weeks 2–8.
+- **[Personal website source](https://github.com/thebinayghimire/binayisred.github.io)** — the code behind my personal site.
+
+---
+
+## Toolkit
 
 Technologies I've used in coursework and personal projects. I'm continuing to deepen my understanding of each.
 
@@ -79,7 +96,9 @@ Technologies I've used in coursework and personal projects. I'm continuing to de
 | **Data & databases** | SQL · Oracle APEX · PL/SQL · pandas · NumPy |
 | **Tools & systems** | Git · GitHub · Linux · Docker · VS Code |
 
-### In progress
+---
+
+## In progress
 
 <table>
 <tr>
@@ -98,7 +117,9 @@ Technologies I've used in coursework and personal projects. I'm continuing to de
 </tr>
 </table>
 
-### How I approach a project
+---
+
+## How I approach a project
 
 **Understand the problem.** Define who the application serves and what it needs to do.  
 **Build a working version.** Start with the core workflow and make its behavior clear.  
@@ -121,5 +142,7 @@ Manchester United, Formula 1, music, and an ongoing interest in visual design. I
 </p>
 
 <p align="center">
-  <a href="https://github.com/thebinayghimire">@thebinayghimire</a>
+  <a href="mailto:binayire@gmail.com">Let's talk</a> &nbsp; / &nbsp;
+  <a href="https://github.com/thebinayghimire">@thebinayghimire</a> &nbsp; / &nbsp;
+  <a href="#profile-top">Back to top ↑</a>
 </p>
