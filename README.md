@@ -1,7 +1,7 @@
 <!-- Upload this README.md and the assets folder to the public repository thebinayghimire/thebinayghimire. -->
 
 <p align="center">
-  <img src="./assets/header.svg?v=2" width="100%" alt="Binay Ghimire" />
+  <img src="./assets/header-f01a53c7.svg" width="100%" alt="Binay Ghimire" />
 </p>
 
 <p align="center">
